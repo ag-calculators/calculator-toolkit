@@ -1,6 +1,6 @@
 {
   "name": "@ag-calculators/calculator-toolkit",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "dist/agc-calculator-toolkit.cjs.js",
   "module": "dist/agc-calculator-toolkit.esm.js",
   "browser": "dist/agc-calculator-toolkit.umd.js",
